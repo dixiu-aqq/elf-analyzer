@@ -1,0 +1,7 @@
+{
+  "virustotal_api_key": "your_virustotal_api_key_here",
+  "hybrid_analysis_api_key": "your_hybrid_analysis_api_key_here", 
+  "malware_bazaar_api_key": "your_malware_bazaar_api_key_here",
+  "timeout_seconds": 30,
+  "max_retries": 3
+}
